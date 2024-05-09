@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Recipe Vault</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-05-08T20:07:32-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Gavin</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Dumpling Dipping Sauce</title>
+   <link href="http://localhost:4000/2024/05/08/dipping-sauce/"/>
+   <updated>2024-05-08T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2024/05/08/dipping-sauce</id>
+   <content type="html">&lt;h2 id=&quot;intro&quot;&gt;Intro&lt;/h2&gt;
+
+&lt;p&gt;This dipping sauce goes perfectly with dumplings or potstickers!&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3TBSP of Soya Sauce&lt;/li&gt;
+  &lt;li&gt;1TBSP of Sesame Oil&lt;/li&gt;
+  &lt;li&gt;1TBSP of Rice Vinegar&lt;/li&gt;
+  &lt;li&gt;1TBSP of Worcestershire Sauce&lt;/li&gt;
+  &lt;li&gt;1&lt;sup&gt;1/2&lt;/sup&gt;TSP of Brown Sugar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;instructions&quot;&gt;Instructions&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Thoroughly mix in a bowl until combined.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Serve in a bowl for dipping or drizzled over dumplings.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Burger Patties</title>
+   <link href="http://localhost:4000/2024/05/08/burgers/"/>
+   <updated>2024-05-08T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2024/05/08/burgers</id>
+   <content type="html">&lt;h2 id=&quot;intro&quot;&gt;Intro&lt;/h2&gt;
+
+&lt;p&gt;Whether you are having an outdoor barbeque, or just want some comfort food, this burger patty recipe is for you! This recipe is a modified version of &lt;a href=&quot;https://www.food.com/recipe/the-perfect-burger-92021&quot;&gt;This Recipe&lt;/a&gt;, from Food.com.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 Egg&lt;/li&gt;
+  &lt;li&gt;1TSP of Dijon Mustard&lt;/li&gt;
+  &lt;li&gt;1TSP of Worcestershire Sauce&lt;/li&gt;
+  &lt;li&gt;1 Small Onion, Finely Grated&lt;/li&gt;
+  &lt;li&gt;1 Minced Clove of Garlic&lt;/li&gt;
+  &lt;li&gt;&lt;sup&gt;1/2&lt;/sup&gt;TSP of Salt&lt;/li&gt;
+  &lt;li&gt;&lt;sup&gt;1/2&lt;/sup&gt;TSP of Pepper&lt;/li&gt;
+  &lt;li&gt;1lb of Ground Beef&lt;/li&gt;
+  &lt;li&gt;&lt;sup&gt;1/4&lt;/sup&gt;Cup of Panko&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lightly oil the grill and heat the barbeque to medium.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Whisk the egg in a bowl, then add all of the Spices, Sauces and Vegetables. It is at this step where you can add any other flavour you may desire to your burger.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Crumble in the Ground Beef and add the Panko and gently mix. Try not to overwork the meat, the more you mix, the tougher it gets.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gently shape the mixture into burgers that are about &lt;sup&gt;3/4&lt;/sup&gt; of an inch thick. Create a shallow depression in the center of each burger to prevent it from puffing up while on the grill.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Place burgers on the grill and close the lid. Cook until &lt;strong&gt;NO LONGER PINK INSIDE&lt;/strong&gt;, turning once, cooking around 6-8 minutes per side. Burgers should have a temperture of at least 160F. Don’t poke them too much while they are on the grill or they may lose some of their juices.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Place on a bun and add any toppings you desire. Enjoy!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+
+</feed>
